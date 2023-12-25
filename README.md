@@ -1,1 +1,1 @@
-# hinagata.github.io
+#まっ数ページのひながたである。
